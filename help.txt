@@ -1,0 +1,24 @@
+In the "communities" file, paste the links to the communities you want to search.
+At startup, log in to an account that will look at the victim's profile in communities
+Then select the type of victim selection (entering a link to it or its id)
+Enter a link or id (depending on the choice above)
+IN THE FILE ITSELF DO NOT NEED TO CHANGE ANYTHING
+
+======
+
+
+В файл "communities" вставьте ссылки на сообщества, в которых будет идти поиск.
+При старте войдите в аккаунт, который будет смотреть по сообществам профиль жертвы
+После выберите тип выбора жертвы (ввод на него ссылки или его id)
+Введите ссылку или айди (в зависимости от выбора выше)
+
+В САМОМ ФАЙЛЕ НИЧЕГО МЕНЯТЬ НЕ НУЖНО
+
+
+
+
+Made by Xsarz (@DXsarz)
+GitHub: https://github.com/xXxCLOTIxXx
+Telegram channel: https://t.me/DxsarzUnion
+YouTube: https://www.youtube.com/channel/UCNKEgQmAvt6dD7jeMLpte9Q
+Discord server: https://discord.gg/GtpUnsHHT4
